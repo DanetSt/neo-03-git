@@ -1,0 +1,1 @@
+echo "INDEX PHP";
